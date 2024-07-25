@@ -1,4 +1,5 @@
 # Home LLC Assignment
+**Check this `LLCnotebook.ipynb`**
 
 ## Overview
 
