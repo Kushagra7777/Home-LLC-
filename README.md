@@ -1,12 +1,25 @@
-# Project Setup
+# Home LLC Assignment
 
-## Setting Up Jupyter Environment and Installing Dependencies
+## Overview
 
-This guide will walk you through setting up a Jupyter environment and installing the necessary dependencies for this project.
+In this assignment, we analyze 20 years of data on US housing prices. The data was sourced from the following platforms:
 
-### 1. Install Jupyter Notebook
+- [Federal Reserve Economic Data (FRED)](https://fred.stlouisfed.org/)
+- [OECD](https://www.oecd.org/en.html)
+- [World Bank](https://data.worldbank.org/)
 
-If you don't have Jupyter Notebook installed, you can install it using pip. Open your terminal or command prompt and run:
+## Approach
 
-```bash
-pip install jupyter
+1. **Correlation Analysis**: 
+   We started by examining the correlation between the S&P Home Price Index and various other factors. This helped us identify the most relevant variables affecting housing prices.
+
+2. **Data Cleaning and Feature Selection**: 
+   Based on the correlation analysis, we cleaned the data and selected the factors with high correlations for further analysis.
+
+3. **Modeling**:
+   - **Initial Attempt**: We initially used Multiple Linear Regression, but the results were unsatisfactory with a highly negative R-squared value.
+   - **Refinement**: We switched to Ordinary Least Squares (OLS) Regression. The OLS model significantly improved the fit, achieving an R-squared value of approximately 0.95, indicating a much better performance.
+
+## Summary
+
+The final OLS Regression model provides a robust fit for the housing price data, demonstrating a strong explanatory power with an R-squared value of around 0.95. This reflects a successful analysis and modeling approach, significantly improving over the initial linear regression attempt.
