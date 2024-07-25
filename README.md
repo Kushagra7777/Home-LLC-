@@ -19,7 +19,13 @@ In this assignment, we analyze 20 years of data on US housing prices. The data w
 3. **Modeling**:
    - **Initial Attempt**: We initially used Multiple Linear Regression, but the results were unsatisfactory with a highly negative R-squared value.
    - **Refinement**: We switched to Ordinary Least Squares (OLS) Regression. The OLS model significantly improved the fit, achieving an R-squared value of approximately 0.95, indicating a much better performance.
+  
+## Files
+Details about each data file can be found in units.txt file. 
 
 ## Summary
 
 The final OLS Regression model provides a robust fit for the housing price data, demonstrating a strong explanatory power with an R-squared value of around 0.95. This reflects a successful analysis and modeling approach, significantly improving over the initial linear regression attempt.
+
+
+
