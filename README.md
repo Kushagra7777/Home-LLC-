@@ -1,5 +1,5 @@
 # Home LLC Assignment
-**Check this `LLCnotebook.ipynb`**
+**Check the `LLCnotebook.ipynb` for plots and code**
 
 ## Overview
 
