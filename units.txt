@@ -1,0 +1,13 @@
+CSUSHPISA (S&P Case-Schiller Home Price Index) --> Index Jan 2000=100
+GDP --> Billions of Dollars
+POPTHM(population) --> Thousands
+GDP_per_captia --> Dollars
+CPIAUCSL (inflation) --> Index 1982-1984=100
+UNRATE (unemployment rate) --> Percent
+FEDFUNDS (Federal Funds Effective Rate) --> Percent
+MORTGAGE30US (30-Year Fixed Rate Mortgage Average in the United States) --> Percent
+ETOTALUSQ176N (Housing Inventory Estimate: Total Housing Units in the United States) --> Thousands of Unit
+ASPUS (Average Sales Price of Houses Sold for the United States) --> Dollars
+CORESTICKM159SFRBATL ( Sticky Price Consumer Price Index less Food and Energy) --> Percent Change from Year Ago
+MSACSR (Monthly Supply of New Houses in the United States) --> Months' Supply
+Work_pop Working age population	(% of population)	
